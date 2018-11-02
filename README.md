@@ -5,3 +5,6 @@
   <br /> AWS git repo:
     <br /> https://github.com/awsdocs/aws-doc-sdk-examples/
     <br /> https://github.com/aws/aws-sdk-js
+    
+  <br > LibCloud documentation
+    <br /> https://medium.com/vimeo-engineering-blog/orchestrating-gce-instances-with-ansible-d825a33793cd
