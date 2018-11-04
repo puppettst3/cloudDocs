@@ -3,9 +3,11 @@
 ## Links
   <br /> https://www.scottharney.com/using-ansible-to-bootstap-my-work-environment-part-4/
   <br /> https://gist.github.com/mrsiesta/0e4fac21c0eb0e8977e1de7b5277e63b
+  
   <br /> AWS git repo:
     <br /> https://github.com/awsdocs/aws-doc-sdk-examples/
     <br /> https://github.com/aws/aws-sdk-js
+    
   <br /> Boto usage example
     <br /> https://blog.shikisoft.com/accessing-aws-resources-using-python-scripts/
     <br /> https://sdbrett.com/BrettsITBlog/2017/01/aws-boto3-describe-vpc/
@@ -19,3 +21,6 @@
 
   <br /> GCE execution example with libcloud
     <br /> https://gist.github.com/goodjob1114/dce5b43b4772534bfcaf
+
+  <br /> Static Group of Dynamic inventory group
+    <br /> https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#static-groups-of-dynamic-groups
