@@ -8,6 +8,7 @@
     <br /> https://github.com/aws/aws-sdk-js
   <br /> Boto usage example
     <br /> https://blog.shikisoft.com/accessing-aws-resources-using-python-scripts/
+    <br /> https://sdbrett.com/BrettsITBlog/2017/01/aws-boto3-describe-vpc/
     
   <br /> LibCloud documentation
     <br /> https://medium.com/vimeo-engineering-blog/orchestrating-gce-instances-with-ansible-d825a33793cd
