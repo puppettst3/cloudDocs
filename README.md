@@ -1,6 +1,7 @@
 # Documentation links and information
 
 ## Links
+  <br /> https://www.scottharney.com/using-ansible-to-bootstap-my-work-environment-part-4/
   <br /> https://gist.github.com/mrsiesta/0e4fac21c0eb0e8977e1de7b5277e63b
   <br /> AWS git repo:
     <br /> https://github.com/awsdocs/aws-doc-sdk-examples/
