@@ -1,0 +1,33 @@
+---
+- name: subnet selection
+  shell: /home/ubuntu/opt_parse_subnet.py -r {{ region }}
+  register: ec2_subnet_id
+
+- name: launch instances
+  ec2:
+    key_name: '{{ keypair }}'
+    group: default
+    instance_type: '{{ instance_type }}'
+    image: '{{ image }}'
+    wait: yes
+    wait_timeout: 500
+    region: '{{ region }}'
+    vpc_subnet_id: '{{ ec2_subnet_id.stdout }}'
+    assign_public_ip: true
+    exact_count: 1
+    count_tag:
+      Name: "{{ item.hostname }}"
+    instance_tags:
+      Name: "{{ item.fqdn }}"
+      role: "{{ item.ec2role }}"
+      customer: "{{ item.customer }}"
+    instance_profile_name: set-internal-dns
+    user_data: "{{ lookup('template', 'templates/user_data_route53_dns.yml.j2') }}"
+  with_items:
+    - hostname: "{{ ec2_hostname }}"
+      fqdn: "{{ ec2_hostname }}.{{ domain }}"
+      ec2role: "{{ ec2_role }}"
+      customer: "{{ customer }}"
+  register: ec2
+- name: print all variables
+  debug: var=ec2

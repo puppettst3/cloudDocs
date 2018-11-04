@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  roles:
+    - { role: provision-ec2, ec2_hostname: "MSR-test-Instance-1", ec2_role: "mysql", customer: "company1" }
+
+#- hosts: docker
+#  roles:
+#    - role: common
+    #- role: nvm
+    #- role: docker
+#- hosts: couchDB

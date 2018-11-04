@@ -1,0 +1,8 @@
+---
+# tasks for installing the common packages
+- name: Install common packages
+  apt: pkg={{ item }} state=latest update_cache=yes cache_valid_time=3600
+  with_items:
+    - openssl
+    - git
+  become_method: sudo

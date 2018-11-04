@@ -1,0 +1,7 @@
+---
+keypair: msr_assignment
+instance_type: t2.micro
+image: ami-059eeca93cf09eebd
+region: us-east-1
+domain: testmsrit.com
+zone_id: Z4Z4IB7A0818Q

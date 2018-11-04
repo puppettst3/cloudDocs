@@ -1,0 +1,13 @@
+---
+- name: Install apache couchDB inside the container
+  docker_service:
+    project_name: couchdb
+    definition:
+      version: '2'
+      services:
+        webserver:
+          image: couchdb
+          volumes:
+            - "/opt/couchdb/data"
+          ports:
+            - "5984:5984"
