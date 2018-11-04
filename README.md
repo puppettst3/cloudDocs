@@ -14,5 +14,5 @@
   <br /> LibCloud documentation
     <br /> https://medium.com/vimeo-engineering-blog/orchestrating-gce-instances-with-ansible-d825a33793cd
     
-  <br /> AWS boto3 usage with an example.
-    <br /> https://blog.shikisoft.com/accessing-aws-resources-using-python-scripts/
+  <br /> Python coding helpful examples used in here:
+    <br /> https://pymotw.com/2/optparse/
