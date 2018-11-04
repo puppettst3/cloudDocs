@@ -16,3 +16,6 @@
     
   <br /> Python coding helpful examples used in here:
     <br /> https://pymotw.com/2/optparse/
+
+  <br /> GCE execution example with libcloud
+    <br /> https://gist.github.com/goodjob1114/dce5b43b4772534bfcaf
