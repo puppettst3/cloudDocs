@@ -6,5 +6,8 @@
     <br /> https://github.com/awsdocs/aws-doc-sdk-examples/
     <br /> https://github.com/aws/aws-sdk-js
     
-  <br > LibCloud documentation
+  <br /> LibCloud documentation
     <br /> https://medium.com/vimeo-engineering-blog/orchestrating-gce-instances-with-ansible-d825a33793cd
+    
+  <br /> AWS boto3 usage with an example.
+    <br /> https://blog.shikisoft.com/accessing-aws-resources-using-python-scripts/
