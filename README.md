@@ -4,6 +4,9 @@
   <br /> https://www.scottharney.com/using-ansible-to-bootstap-my-work-environment-part-4/
   <br /> https://gist.github.com/mrsiesta/0e4fac21c0eb0e8977e1de7b5277e63b
   
+  <br /> AWS Dynamic inventory Management official link.
+    <br /> https://aws.amazon.com/de/blogs/apn/getting-started-with-ansible-and-dynamic-amazon-ec2-inventory-management/?adbid=562667719041245185&adbpl=tw&adbpr=192929401&adbsc=APN_Blog_20150203_39862237
+  
   <br /> AWS git repo:
     <br /> https://github.com/awsdocs/aws-doc-sdk-examples/
     <br /> https://github.com/aws/aws-sdk-js
