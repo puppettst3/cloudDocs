@@ -28,6 +28,7 @@
 
   <br /> Static Group of Dynamic inventory group
     <br /> https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#static-groups-of-dynamic-groups
+    <br /> https://awsbloglink.wordpress.com/2017/05/17/how-to-use-ansible-inventory-together-dynamic-static/
     
   <br /> Randomize subnet ( not 100% what we require but gives a better way start to lookup for ):
     <br /> https://stackoverflow.com/questions/31523682/ansible-trying-to-create-multiple-ec2-instances-in-multiple-regions-in-one-shot
