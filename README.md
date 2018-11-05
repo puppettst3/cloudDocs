@@ -31,3 +31,6 @@
     
   <br /> Randomize subnet ( not 100% what we require but gives a better way start to lookup for ):
     <br /> https://stackoverflow.com/questions/31523682/ansible-trying-to-create-multiple-ec2-instances-in-multiple-regions-in-one-shot
+
+## Ansible based MYSQL installation in a single subnet.
+  <br /> https://severalnines.com/blog/infrastructure-automation-deploying-clustercontrol-and-mysql-based-systems-aws-using-ansible
