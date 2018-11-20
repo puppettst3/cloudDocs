@@ -37,3 +37,4 @@
 
 ## Ansible based MYSQL installation in a single subnet.
   <br /> https://severalnines.com/blog/infrastructure-automation-deploying-clustercontrol-and-mysql-based-systems-aws-using-ansible
+  <br /> Ansible assert usage examples: https://thoughts.t37.net/documenting-your-ansible-roles-interface-and-making-other-peoples-life-easier-604e5172837b
