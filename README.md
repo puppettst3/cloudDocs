@@ -43,3 +43,6 @@
   
  ## Docker SWarm resource usage limits
    <br /> https://medium.com/@jmarcos.cano/docker-swarm-stacks-resources-limit-f447ee74cb62
+   
+ ## Docker swarm RAFT nice explanation with animation
+ <br /> http://thesecretlivesofdata.com/raft/
