@@ -40,3 +40,6 @@
   <br /> Ansible assert usage examples:
   <br /> https://thoughts.t37.net/documenting-your-ansible-roles-interface-and-making-other-peoples-life-easier-604e5172837b
   <br /> http://www.paulbutcher.space/blog/2017/08/29/checking-ansible-vars
+  
+ ## Docker SWarm resource usage limits
+   <br /> https://medium.com/@jmarcos.cano/docker-swarm-stacks-resources-limit-f447ee74cb62
