@@ -49,3 +49,6 @@
 
 ## Docker container orchestration useful links
   <br /> https://semaphoreci.com/community/series/container-orchestration-for-microservices-with-docker-swarm
+
+## Docker swarm container orchestration
+<br /> https://semaphoreci.com/community/series/container-orchestration-for-microservices-with-docker-swarm
