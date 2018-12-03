@@ -59,3 +59,6 @@
 
 ## AWS Region Round Trip time estimations from your location.
   <br /> https://www.cloudping.info/
+  
+## Docker conference videos
+  <br /> https://dockercon2018.hubs.vidyard.com/categories/all-sessions
