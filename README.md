@@ -56,3 +56,6 @@
 
 ## Free DNS Domain
   <br /> https://my.freenom.com/
+
+## AWS services Round Trip time estimations
+  <br /> https://www.cloudping.info/
