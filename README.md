@@ -62,3 +62,6 @@
   
 ## Docker conference videos
   <br /> https://dockercon2018.hubs.vidyard.com/categories/all-sessions
+  
+## Ansible webinar video links
+  <br /> https://www.ansible.com/resources/webinars-training
