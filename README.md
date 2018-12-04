@@ -65,3 +65,6 @@
   
 ## Ansible webinar video links
   <br /> https://www.ansible.com/resources/webinars-training
+  
+## Docker container video links
+  <br /> https://container.training/
